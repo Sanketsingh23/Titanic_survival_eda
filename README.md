@@ -17,3 +17,5 @@ This notebook explores the Titanic dataset using Pandas, Seaborn, and Matplotlib
 - Python, Pandas, Seaborn, Matplotlib
 
 
+Just use the titanic-survival-eda folder and use the Ipynb file in it 
+
